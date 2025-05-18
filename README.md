@@ -10,7 +10,7 @@ In this project, we shall be solving this problem by building an interactive web
  1. Flask (backend)
  2. Vanilla CSS
  3. HTML
- 4. SQL(Database)
+ 4. SQLITE(Database)
 
 # Project Workflow:
 <img width="934" alt="Screenshot 2024-07-07 at 4 04 02 PM" src="https://github.com/ackerman29/e-KYC-verification/assets/104158912/c854d670-1e1f-47e9-815b-86c656de47c1">
